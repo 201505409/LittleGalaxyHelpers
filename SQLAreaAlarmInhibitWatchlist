@@ -1,4 +1,4 @@
---Query that creates a Watchlist for the object viewer of all deployed areas AlarmInhibit attribute statues
+--Query that creates a Watchlist for the object viewer of all deployed areas AlarmInhibit attribute status
 --Copy and Paste the Results of this script into a text file
 --and load that file into object viewer
 DECLARE @rootAppEngId int
